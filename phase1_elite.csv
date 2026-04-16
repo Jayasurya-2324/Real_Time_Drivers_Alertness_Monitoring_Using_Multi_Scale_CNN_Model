@@ -1,0 +1,101 @@
+ts,frame,status,drowsy,yawn,left,right,up,down,blocked,sleep_s,ear,mar,yaw,pitch,fps,bright
+18:53:21,1,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,2,21
+18:53:21,2,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,9,21
+18:53:21,3,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,10,21
+18:53:22,4,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,10,21
+18:53:22,5,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,21
+18:53:22,6,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,21
+18:53:22,7,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,10,21
+18:53:22,8,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,7,21
+18:53:22,9,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,8,21
+18:53:22,10,NORMAL E:0.31,False,False,False,False,False,False,False,0,0.309,8.872,3.6,-16.04,7,22
+18:53:22,11,NORMAL E:0.33,False,False,False,False,False,False,False,0,0.327,57.172,1.66,-17.16,8,22
+18:53:23,12,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.255,15.66,2.12,-17.37,8,23
+18:53:23,13,NORMAL E:0.25,False,False,False,False,False,False,False,0,0.253,21.882,1.4,-18.04,8,23
+18:53:23,14,DROWSY(0.24),True,False,False,False,False,False,False,0,0.235,61.739,3.56,-17.18,8,22
+18:53:23,15,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.258,57.809,3.57,-17.95,6,22
+18:53:23,16,NORMAL E:0.31,False,False,False,False,False,False,False,0,0.309,57.223,1.79,-17.28,7,22
+18:53:23,17,DROWSY(0.25),True,False,False,False,False,False,False,0,0.248,19.295,3.84,-18.13,7,22
+18:53:23,18,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.262,39.679,1.4,-17.55,8,22
+18:53:23,19,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.276,59.176,-0.47,-18.32,8,22
+18:53:24,20,NORMAL E:0.32,False,False,False,False,False,False,False,0,0.318,58.841,0.2,-18.09,8,22
+18:53:24,21,NORMAL E:0.32,False,False,False,False,False,False,False,0,0.315,59.789,1.16,-18.22,8,22
+18:53:24,22,NORMAL E:0.31,False,False,False,False,False,False,False,0,0.311,41.503,-0.84,-18.5,6,22
+18:53:24,23,DROWSY(0.18),True,False,False,False,False,False,False,0,0.184,59.114,-1.09,-19.06,7,22
+18:53:24,24,DROWSY(0.23),True,False,False,False,False,False,False,0,0.233,62.234,-2.12,-18.12,8,22
+18:53:24,25,DROWSY(0.23),True,False,False,False,False,False,False,0,0.235,12.568,-4.65,-19.43,8,22
+18:53:24,26,DROWSY(0.25),True,False,False,False,False,False,False,0,0.249,6.974,-3.53,-18.15,8,22
+18:53:25,27,DROWSY(0.23),True,False,False,False,False,False,False,0,0.234,4.459,-3.46,-19.42,8,22
+18:53:25,28,DROWSY(0.20),True,False,False,False,False,False,False,0,0.198,4.008,-4.46,-19.64,5,22
+18:53:25,29,DROWSY(0.24),True,False,False,False,False,False,False,0,0.242,7.045,-2.34,-18.52,6,22
+18:53:25,30,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.285,56.9,-2.96,-17.75,7,21
+18:53:25,31,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.282,57.54,-4.03,-18.02,8,21
+18:53:25,32,NORMAL E:0.27,False,False,False,False,False,False,False,0,0.269,58.552,-8.61,-17.95,8,21
+18:53:25,33,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.256,53.607,-9.07,-16.61,8,21
+18:53:26,34,NORMAL E:0.30,False,False,False,False,False,False,False,0,0.301,52.481,-14.21,-16.79,8,21
+18:53:26,35,NORMAL E:0.34,False,False,False,False,False,False,False,0,0.337,50.787,-16.97,-16.57,8,21
+18:53:26,36,NORMAL E:0.34,False,False,False,False,False,False,False,0,0.342,47.267,-18.03,-16.79,6,21
+18:53:26,37,NORMAL E:0.37,False,False,False,False,False,False,False,0,0.366,46.546,-17.05,-17.29,7,21
+18:53:26,38,NORMAL E:0.37,False,False,False,False,False,False,False,0,0.372,5.669,-16.65,-18.92,7,21
+18:53:26,39,NORMAL E:0.37,False,False,False,False,False,False,False,0,0.368,48.298,-16.48,-18.72,8,21
+18:53:26,40,NORMAL E:0.38,False,False,False,False,False,False,False,0,0.38,47.911,-17.51,-18.07,8,21
+18:53:27,41,NORMAL E:0.40,False,False,False,False,False,False,False,0,0.399,51.002,-19.62,-18.08,8,21
+18:53:27,42,NORMAL E:0.32,False,False,False,False,False,False,False,0,0.318,51.044,-16.14,-16.82,8,21
+18:53:27,43,NORMAL E:0.29,False,False,False,False,False,False,False,0,0.289,52.454,-14.46,-17.33,8,22
+18:53:27,44,NORMAL E:0.36,False,False,False,False,False,False,False,0,0.359,51.356,-18.44,-16.88,5,21
+18:53:27,45,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.277,53.072,-13.18,-17.52,7,22
+18:53:27,46,NORMAL E:0.29,False,False,False,False,False,False,False,0,0.289,59.902,-12.29,-17.83,8,22
+18:53:27,47,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.26,62.859,-11.29,-18.28,8,22
+18:53:28,48,NORMAL E:0.27,False,False,False,False,False,False,False,0,0.269,63.146,-6.77,-19.16,8,22
+18:53:28,49,NORMAL E:0.29,False,False,False,False,False,False,False,0,0.294,60.685,-4.83,-19.61,8,22
+18:53:28,50,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.28,58.463,-4.27,-19.78,8,22
+18:53:28,51,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.283,56.613,-3.73,-19.46,8,23
+18:53:28,52,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.279,60.277,-1.96,-18.92,5,23
+18:53:28,53,DROWSY(0.22),True,False,False,False,False,False,False,0,0.224,15.155,-0.58,-18.74,7,23
+18:53:28,54,NORMAL E:0.25,False,False,False,False,False,False,False,0,0.252,46.989,1.5,-19.12,7,23
+18:53:29,55,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.262,6.548,2.24,-17.14,8,23
+18:53:29,56,NORMAL E:0.30,False,False,False,False,False,False,False,0,0.301,9.945,2.73,-16.9,8,23
+18:53:29,57,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.259,52.434,4.2,-15.45,8,23
+18:53:29,58,NORMAL E:0.28,False,False,False,False,False,False,False,0,0.28,50.782,1.21,-15.57,8,23
+18:53:29,59,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.257,15.736,1.84,-14.83,8,23
+18:53:29,60,NORMAL E:0.27,False,False,False,False,False,False,False,0,0.267,52.953,2.32,-13.88,5,23
+18:53:29,61,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,8,23
+18:53:29,62,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,9,23
+18:53:30,63,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,10,23
+18:53:30,64,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,23
+18:53:30,65,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,22
+18:53:30,66,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,22
+18:53:30,67,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,22
+18:53:30,68,DROWSY(0.19),True,False,False,False,False,False,False,0,0.19,60.635,-3.37,-18.04,8,23
+18:53:30,69,DROWSY(0.21),True,False,False,False,False,False,False,0,0.206,58.731,-1.63,-17.75,8,23
+18:53:30,70,DROWSY(0.23),True,False,False,False,False,False,False,0,0.226,57.796,-1.07,-17.2,8,23
+18:53:31,71,DROWSY(0.24),True,False,False,False,False,False,False,0,0.239,58.211,-1.7,-16.92,5,23
+18:53:31,72,DROWSY(0.25),True,False,False,False,False,False,False,0,0.248,57.462,-0.58,-17.31,7,23
+18:53:31,73,NORMAL E:0.25,False,False,False,False,False,False,False,0,0.25,56.692,-1.78,-16.99,7,23
+18:53:31,74,DROWSY(0.24),True,False,False,False,False,False,False,0,0.242,57.177,-0.45,-17.45,8,23
+18:53:31,75,DROWSY(0.24),True,False,False,False,False,False,False,0,0.236,23.406,-0.49,-17.39,8,23
+18:53:31,76,DROWSY(0.23),True,False,False,False,False,False,False,0,0.234,58.079,-1.14,-17.8,8,23
+18:53:31,77,DROWSY(0.24),True,False,False,False,False,False,False,0,0.236,55.576,-1.24,-17.69,9,23
+18:53:32,78,DROWSY(0.23),True,False,False,False,False,False,False,0,0.226,58.233,-1.6,-17.91,8,23
+18:53:32,79,DROWSY(0.21),True,False,False,False,False,False,False,0,0.211,54.727,-2.19,-17.24,8,23
+18:53:32,80,DROWSY(0.23),True,False,False,False,False,False,False,0,0.229,55.771,-0.83,-18.49,8,23
+18:53:32,81,DROWSY(0.24),True,False,False,False,False,False,False,0,0.238,56.236,-1.45,-17.95,8,23
+18:53:32,82,DROWSY(0.21),True,False,False,False,False,False,False,0,0.213,54.895,-1.07,-18.07,5,23
+18:53:32,83,DROWSY(0.21),True,False,False,False,False,False,False,0,0.213,54.914,-1.52,-17.89,7,23
+18:53:32,84,DROWSY(0.24),True,False,False,False,False,False,False,0,0.238,55.016,-0.43,-17.94,8,23
+18:53:32,85,DROWSY(0.21),True,False,False,False,False,False,False,0,0.206,55.365,-1.9,-17.36,8,23
+18:53:33,86,DROWSY(0.22),True,False,False,False,False,False,False,0,0.221,59.138,-1.99,-17.87,8,23
+18:53:33,87,DROWSY(0.24),True,False,False,False,False,False,False,0,0.237,57.303,-0.91,-17.77,8,23
+18:53:33,88,DROWSY(0.23),True,False,False,False,False,False,False,0,0.233,55.874,-1.01,-17.43,8,23
+18:53:33,89,DROWSY(0.21),True,False,False,False,False,False,False,0,0.21,39.458,-2.02,-17.38,8,23
+18:53:33,90,DROWSY(0.19),True,False,False,False,False,False,False,0,0.19,54.348,-1.74,-16.52,8,23
+18:53:33,91,DROWSY(0.25),True,False,False,False,False,False,False,0,0.248,55.162,-3.62,-15.96,9,23
+18:53:33,92,DROWSY(0.19),True,False,False,False,False,False,False,0,0.191,54.457,-3.29,-15.26,5,22
+18:53:34,93,DROWSY(0.24),True,False,False,False,False,False,False,0,0.238,52.806,-2.31,-17.02,7,22
+18:53:34,94,NORMAL E:0.26,False,False,False,False,False,False,False,0,0.256,51.556,-0.78,-16.0,7,21
+18:53:34,95,DROWSY(0.20),True,False,False,False,False,False,False,0,0.203,50.337,1.4,-15.87,8,21
+18:53:34,96,DROWSY(0.24),True,False,False,False,False,False,False,0,0.244,50.67,2.44,-17.0,8,21
+18:53:34,97,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,10,20
+18:53:34,98,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,20
+18:53:34,99,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,20
+18:53:34,100,NORMAL E:0.00,False,False,False,False,False,False,False,0,0.0,0.0,0.0,0.0,11,20
